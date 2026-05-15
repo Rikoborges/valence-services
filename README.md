@@ -241,4 +241,11 @@ git commit -m "feat: MVP completo - FastAPI + Next.js + PostgreSQL + RGPD"
 git push -u origin main
 ```
 
+## 🗺️ Roadmap (Próximas Versões)
+- [ ] Cadastro de profissionais (`/inscreva-se` + `POST /api/v1/prestataires`)
+- [ ] Filtros avançados (raio, múltiplos serviços, ordenação)
+- [ ] Painel administrativo (aprovação, gestão de perfis)
+- [ ] Upload de fotos e verificação de documentos (SIRET)
+- [ ] Sistema de avaliações e mensagens
+
 **Está pronto!** 🚀 O README está profissional, limpo e sem informações sensíveis.
